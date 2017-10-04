@@ -1,7 +1,7 @@
 body {
 	font-family: Segoe UI, arial, sans-serif;
-	background-color: #ff69b4;
-	color: #8B008B;
+	background-color: #FFE7BA;
+	color: #ffffff;
 }
 
 img.person {
@@ -23,7 +23,7 @@ div#logo {
 }
 
 div#container {
-	background-color: #ff1493;
+	background-color: #FFA07A;
 	min-width:850px;
 	margin-left: auto;
 	margin-right: auto;
